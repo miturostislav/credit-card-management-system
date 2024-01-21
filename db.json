@@ -1,0 +1,6 @@
+{"id":1,"name":"IOVAN","credit_limit":45,"card_number":"bd15ae6af7de253cac5957aa2fb6e069:5d5d70a467156f99e4eb914ae6b2c72c","card_type":"mastercard"}
+{"id":2,"name":"IOVAN12","credit_limit":72,"card_number":"dc0bcda45e5ebb5393f6c599eb343dbf:a5988e6dd2d07ac6cc19c808a1c31946","card_type":"mastercard"}
+{"id":3,"name":"SAMPLE","credit_limit":78,"card_number":"36453549263497697fd845cc3f2f0240:3951717b7bccc7d2a794862e96521e79","card_type":"mastercard"}
+{"id":4,"name":"SAMPLE2","credit_limit":120,"card_number":"91a9bc3b3db1bcf4744f941bf0ddfb74:4d479e82dde49741b36e13b6bb7f414a","card_type":"visa"}
+{"id":5,"name":"SAMPLE3","credit_limit":130,"card_number":"ae3c1f87fef49bf01681e48169791c45:05123f20b23004fa7f84905e9bd2c96c","card_type":"visa"}
+{"id":6,"name":"SAMPLE4","credit_limit":220,"card_number":"9a308421596477def1093fd6ba79d32a:564b30f6d1ff8d1df05ba1ba86de6047","card_type":"visa"}
