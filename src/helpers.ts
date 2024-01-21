@@ -5,7 +5,6 @@ import { Response } from 'express';
 const algorithm = 'aes-256-ctr';
 const IV_LENGTH = 16;
 
-process.env.CARD_ENCRYPTION_SECRET_KEY = 'DoCKvdLslTuB4y3EZlKate7XMottHski1LmyqJHvUhs=';
 export function encrypt(value: string): string {
   const iv = crypto.randomBytes(IV_LENGTH);
   const cipher = crypto.createCipheriv(algorithm, Buffer.from(process.env.CARD_ENCRYPTION_SECRET_KEY, 'base64'), iv);
